@@ -4,7 +4,7 @@ Saliency detection in dermoscopic images
 
 Saliency detection in dermoscopic images as described in this paper: "Supervised Saliency Map Driven Segmentation of the Lesions in Dermoscopic Images" by M. Jahanifar et al.(arXiv: https://arxiv.org/abs/1703.00087)
 
-** This is a part of an algorithm for lesion segmentation in dermoscopic images, ranked 7th in the "ISBI2017: Skin Lesion Analysis toward Melanoma Detection - Part1: Segmentation". Full description of the segmentation method is available in the above-mentioned paper**
+** This is a part of an algorithm for lesion segmentation in dermoscopic images, ranked 7th in the "ISIC2017: Skin Lesion Analysis toward Melanoma Detection - Part1: Segmentation". Full description of the segmentation method is available in the above-mentioned paper**
 
 mDRFI is the modified version of the DRFI model for saliency detection described in the paper "the paper Salient Object Detection: A Discriminative Regional Feature Integration Approach" (arXiv: https://arxiv.org/pdf/1410.5926.pdf).
 
